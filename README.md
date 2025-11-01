@@ -31,8 +31,8 @@ This is the backend server for the "Contacts Management" application, part of th
 2.**Clone the repository:**
 
 ```
-  git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-  cd your-repo-name
+  git clone [https://github.com/Seiun-Sky-debug/832302112_concacts_backend.git](https://github.com/Seiun-Sky-debug/832302112_concacts_backend.git)
+  cd 832302112_concacts_backend
 ```
 
 
